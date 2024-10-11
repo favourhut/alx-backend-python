@@ -3,8 +3,8 @@
 """Basic annotaions - Floor"""
 
 
-def floor(n: float) -> floor:
+def floor(n: float) -> int:
     """type-annotated function floor which takes a float n
     as argument and returns the floor of the float
     """
-    return floor(n)
+    return int(n)
