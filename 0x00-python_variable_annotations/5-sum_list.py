@@ -2,6 +2,8 @@
 
 """Complex types - list of floats """
 
+from typing import list
+
 
 def sum_list(input_list: list[float]) -> float:
     """type-annotated function sum_list which takes a list
